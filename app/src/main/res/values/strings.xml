@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ExpenseShare</string>
+    <string name="manage_members">Manage Members</string>
+    <string name="total_expense">Total Expense</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="view_expense">View Expense</string>
+    <string name="expense_per_head">Expense Per Head</string>
+    <string name="amount_spent">Amount Spent</string>
+    <string name="excess_deficit">Excess/Deficit</string>
+    <string name="date">Date</string>
+    <string name="expense">Expense</string>
+    <string name="amount">Amount</string>
+    <string name="name">Name</string>
+    <string name="title_activity_launcher">LauncherActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="titleshare">Share Ur Ride</string>
+</resources>
